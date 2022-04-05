@@ -1,0 +1,13 @@
+C:\Users\paulo\Uri\Uri1001\Uri1001\bin\Debug\netcoreapp3.1\Uri1001.exe
+C:\Users\paulo\Uri\Uri1001\Uri1001\bin\Debug\netcoreapp3.1\Uri1001.deps.json
+C:\Users\paulo\Uri\Uri1001\Uri1001\bin\Debug\netcoreapp3.1\Uri1001.runtimeconfig.json
+C:\Users\paulo\Uri\Uri1001\Uri1001\bin\Debug\netcoreapp3.1\Uri1001.runtimeconfig.dev.json
+C:\Users\paulo\Uri\Uri1001\Uri1001\bin\Debug\netcoreapp3.1\Uri1001.dll
+C:\Users\paulo\Uri\Uri1001\Uri1001\bin\Debug\netcoreapp3.1\Uri1001.pdb
+C:\Users\paulo\Uri\Uri1001\Uri1001\obj\Debug\netcoreapp3.1\Uri1001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Uri\Uri1001\Uri1001\obj\Debug\netcoreapp3.1\Uri1001.AssemblyInfoInputs.cache
+C:\Users\paulo\Uri\Uri1001\Uri1001\obj\Debug\netcoreapp3.1\Uri1001.AssemblyInfo.cs
+C:\Users\paulo\Uri\Uri1001\Uri1001\obj\Debug\netcoreapp3.1\Uri1001.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Uri\Uri1001\Uri1001\obj\Debug\netcoreapp3.1\Uri1001.dll
+C:\Users\paulo\Uri\Uri1001\Uri1001\obj\Debug\netcoreapp3.1\Uri1001.pdb
+C:\Users\paulo\Uri\Uri1001\Uri1001\obj\Debug\netcoreapp3.1\Uri1001.genruntimeconfig.cache
